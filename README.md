@@ -17,4 +17,6 @@ Fue desarrollada con **Streamlit**, **Plotly Express** y **Pandas**.
 2. Instala las dependencias necesarias:
    ```bash
    pip install streamlit plotly pandas
-   
+
+### URL aplicación en render:
+https://proyecto-s7-cqzp.onrender.com
